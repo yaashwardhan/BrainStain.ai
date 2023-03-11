@@ -1,4 +1,4 @@
-# BrainStain.ai
+# BrainStain.ai :brain:
 
 
 [![Up to Date](https://github.com/yaashwardhan/BrainStain.ai/workflows/Up%20to%20Date/badge.svg)](https://github.com/yaashwardhan/BrainStain.ai/actions?query=workflow%3A%22Up+to+Date%22)
