@@ -1,7 +1,7 @@
 # BrainStain.ai :brain:
 
 
-[![Up to Date](https://github.com/yaashwardhan/BrainStain.ai/workflows/Up%20to%20Date/badge.svg)](https://github.com/yaashwardhan/BrainStain.ai/actions?query=workflow%3A%22Up+to+Date%22)
+[![Up to Date](https://github.com/yaashwardhan/BrainStain.ai/workflows/Up%20to%20Date/badge.svg)]
 
 
 Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Trained on 3D NIfTI data. 
