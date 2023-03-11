@@ -2,7 +2,7 @@
 
 Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Trained on 3D NIfTI data. 
 
-<img src="visualize_slices.gif">
+<img src="header.gif">
 
 ## Dependencies
 
