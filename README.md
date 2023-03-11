@@ -1,6 +1,6 @@
 # BrainStain.ai :brain:
 
-Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Trained on 3D NIfTI data. 
+Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
 
 <img src="header.gif">
 
