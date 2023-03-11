@@ -6,13 +6,20 @@ Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Tr
 
 ## Dependencies
 
-| Package                                   | Tested version |
-|-------------------------------------------|----------------|
-| [NumPy](http://www.numpy.org/)            | 1.14.2         |
-| [NiBabel](http://nipy.org/nibabel/)       | 2.2.1          |
-| [matplotlib](http://matplotlib.org/)      | 2.2.0          |
-| [imageio](https://imageio.github.io/)     | 2.2.0          |
-| [scikit-image](https://scikit-image.org/) | 0.13.0         |
+| Package           | Tested version |
+|--------------------|----------------|
+| tensorflow         | 2.11.0         |
+| keras              | 2.10.0         |
+| opencv_python      | 4.7.0.68       |
+| nibabel            | 5.0.1          |
+| numpy              | 1.23.3         |
+| pandas             | 1.5.0          |
+| matplotlib         | 3.6.0          |
+| scikit_learn       | 1.2.2          |
+| SimpleITK          | 2.2.1          |
+| ipython            | 8.11.0         |
+
+
 
 ## Installation
 
