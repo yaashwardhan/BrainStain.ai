@@ -1,5 +1,7 @@
 # BrainStain.ai :brain:
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 Brain tumor detector using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
 
 <img src="header.gif">
