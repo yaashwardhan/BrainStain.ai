@@ -25,8 +25,6 @@ Brain tumor sementation using U-NET architecture and Sorensen Dice Index metric.
 
 ## Installation
 
-Install my-project with npm.
-
 ```bash
   $ git clone https://github.com/yaashwardhan/BrainStain.ai.git
 ```
