@@ -1,0 +1,11 @@
+ipython==8.11.0
+keras==2.10.0
+matplotlib==3.6.0
+nibabel==5.0.1
+numpy==1.23.3
+opencv_python==4.7.0.68
+pandas==1.5.0
+scikit_learn==1.2.2
+SimpleITK==2.2.1
+tensorflow==2.11.0
+tensorflow_intel==2.11.0
