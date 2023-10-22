@@ -4,7 +4,7 @@
 
 Module 1: Brain tumor sementation using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
 
-Module 2: Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI]([https://www.med.upenn.edu/cbica/brats2020/data.html](https://adni.loni.usc.edu/)). 
+Module 2: Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
 
 <img src="header.gif">
 
