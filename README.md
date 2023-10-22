@@ -10,10 +10,10 @@
 
 #### **For 3D NifTi data**: 
  - Implemented 3D-CNNs:
-    - SEResNeXt101 (0.9879 Val AUC)
-    - ResNet18 (0.9982 Val AUC)
-    - VGG-16 (0.9989 Val AUC)
-    - DenseNet121 (0.9902 Val AUC)
+    - SEResNeXt101 `(0.9879 Val AUC)`
+    - ResNet18 `(0.9982 Val AUC)`
+    - VGG-16 `(0.9989 Val AUC)`
+    - DenseNet121 `(0.9902 Val AUC)`
  - Built a multimodal approach. Modalities of the patient used are:
     - Gender
     - Age
