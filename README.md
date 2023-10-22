@@ -2,11 +2,11 @@
 
 <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/Powered%20by-Tensorflow-orange.svg"/></a> [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yaashwardhan/BrainStain.ai/main?color=blue)
 
-Module 1: Brain tumor sementation using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
-
-Module 2: Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
+Module 1: Brain tumor segmentation using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
 
 <img src="header.gif">
+
+Module 2: Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
 
 ## Dependencies
 
