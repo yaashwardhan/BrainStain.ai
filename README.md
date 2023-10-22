@@ -9,12 +9,11 @@
 ### :white_check_mark: **Module 2:** Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
 
 #### **For 3D NifTi data**: 
- - Implemented:
-    - 3D-CNNs
-    - SEResNeXt101
-    - ResNet18
-    - VGG-16
-    - DenseNet121.
+ - Implemented 3D-CNNs:
+    - SEResNeXt101 (0.9879 Val AUC)
+    - ResNet18 (0.9982 Val AUC)
+    - VGG-16 (0.9989 Val AUC)
+    - DenseNet121 (0.9902 Val AUC)
  - Built a multimodal approach. Modalities of the patient used are:
     - Gender
     - Age
@@ -24,7 +23,7 @@
 #### **For 2D data**: The 2D data was created by taking the middle slice of the 3D NifTi data. 
  - Implemented:
     - ViT-B_32 with imagenet21k weights (0.86 val AUC)
-    - 
+
 <img src="cm3d.png">
 <img src="rocauc.png">
 
