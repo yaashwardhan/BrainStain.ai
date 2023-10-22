@@ -22,7 +22,7 @@
 
 #### **For 2D data**: The 2D data was created by taking the middle slice of the 3D NifTi data. 
  - Implemented:
-    - ViT-B_32 with imagenet21k weights (0.86 val AUC)
+    - ViT-B_32 with imagenet21k weights `(0.86 Val AUC)`
 
 <img src="cm3d.png">
 <img src="rocauc.png">
