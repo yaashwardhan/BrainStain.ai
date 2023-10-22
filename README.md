@@ -2,13 +2,33 @@
 
 <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/Powered%20by-Tensorflow-orange.svg"/></a> [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yaashwardhan/BrainStain.ai/main?color=blue)
 
-Module 1: Brain tumor segmentation using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
+### :white_check_mark: **Module 1:** Brain tumor segmentation using U-NET architecture and Sorensen Dice Index metric. Trained on [3D NIfTI data](https://www.med.upenn.edu/cbica/brats2020/data.html). 
 
 <img src="header.gif">
 
-Module 2: Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
+### :white_check_mark: **Module 2:** Multimodal Transfer Learning Approach for Alzheimer’s Disease Stage Classification Using 3D Convolutional Neural Networks. Trained on [ADNI data](https://adni.loni.usc.edu/). 
 
-## Dependencies
+#### **For 3D NifTi data**: 
+ - Implemented:
+    - 3D-CNNs
+    - SEResNeXt101
+    - ResNet18
+    - VGG-16
+    - DenseNet121.
+ - Built a multimodal approach. Modalities of the patient used are:
+    - Gender
+    - Age
+    - Frequency of Visit
+    - Patient ID
+
+#### **For 2D data**: The 2D data was created by taking the middle slice of the 3D NifTi data. 
+ - Implemented:
+    - ViT-B_32 with imagenet21k weights (0.86 val AUC)
+    - 
+<img src="cm3d.png">
+<img src="rocauc.png">
+
+## Dependencies (Module 1)
 
 | Package           | Tested version |
 |--------------------|----------------|
